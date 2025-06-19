@@ -1,5 +1,6 @@
 # Snake Classification: Venomous or Non-Venomous
 ##****first convert snake_predict.jpg to .pkl using online app****
+##hoe to run : first create virtual env  and then use python app.py
 ## Overview
 This project is a deep learning-based snake classification model that identifies whether a given snake is **venomous or non-venomous** and also predicts the **snake species** from an image. The model is trained using convolutional neural networks (CNNs) and can assist researchers, herpetologists, and the general public in snake identification.
 
