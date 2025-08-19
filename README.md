@@ -53,3 +53,8 @@ print(f"Species: {species}, Venomous: {is_venomous}")
 ## Contributing
 Feel free to contribute by improving the model, dataset, or UI.
 
+<img width="1887" height="817" alt="image" src="https://github.com/user-attachments/assets/1d22028d-e411-4a41-ab06-a21a7b5afd71" />
+
+
+
+
